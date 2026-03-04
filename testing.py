@@ -13,3 +13,5 @@ def print(
     file: _SupportsWriteAndFlush[str] | None = None,
     flush: bool ) ;
     print("hello")
+    jhbkldcwljc
+    print("jhcjgc")
